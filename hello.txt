@@ -1,4 +1,4 @@
-touch: Lenh dung de tao moi 1 file
-nano: Lenh dung de open 1 file ra sua doi 
+touch: Lệnh dùng để tạo mới 1 file
+nano: Lệnh dùng để mở 1 file ra để sửa đổi 
+cd .. : Dùng để đi lùi lại Folder trước
 
-4
