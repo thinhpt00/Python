@@ -1,0 +1,3 @@
+touch: Lenh dung de tao moi 1 file
+nano: Lenh dung de open 1 file ra sua doi 
+
